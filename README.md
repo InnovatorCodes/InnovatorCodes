@@ -43,7 +43,6 @@
 | :--- | :--- | :--- |
 | **🤖 AI Resume Generator** | Automates resume tailoring for specific job descriptions using GenAI. | `Python` `Gemini API` `Streamlit` |
 | **💸 Expense Tracker** | A comprehensive finance tool to track, categorize, and visualize daily spending. | `React` `Supabase` `Charts.js` |
-| **📊 Stock Portfolio Advisor** | AI-driven stock analysis tool for portfolio management (Final Year Project). | `Python` `ML Models` `Data Viz` |
 | **🧠 Knowledge Hub RAG** | Chat with your PDF/PPTs using Retrieval Augmented Generation. | `AWS` `Vector DB` `LLMs` |
 
 ---
