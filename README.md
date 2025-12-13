@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+a+Full+Stack+Developer;I+Build+AI+Tools+%26+Systems;Welcome+to+my+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+InnovatorCodes;Full+Stack+%26+AI+Developer;Building+Scalable+Systems;Welcome+to+my+Profile!" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
 ### 🎓 Computer Science Student @ VIT Vellore
 
-*Bridging the gap between **Systems Engineering**, **DevOps**, and **Data Science**.*
+*Passionate about **Full-Stack Engineering**, **Cloud Architecture**, and **Generative AI**.*
 
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your_email@example.com">
@@ -26,7 +26,13 @@
 ### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,cpp,r,js,ts,react,nextjs,supabase,aws,docker,linux,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c&perline=6" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,express&perline=6" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,aws,vercel&perline=6" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,linux&perline=5" />
 </div>
 
 ---
@@ -46,11 +52,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=InnovatorCodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InnovatorCodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=InnovatorCodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
   </a>
 </div>
 
