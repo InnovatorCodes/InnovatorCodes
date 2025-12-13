@@ -52,12 +52,15 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=InnovatorCodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InnovatorCodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=InnovatorCodes&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
   </a>
 </div>
 
-<div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InnovatorCodes&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
+<div align="center">
+  <img src="https://github.com/InnovatorCodes/InnovatorCodes/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </div>
 
 ---
